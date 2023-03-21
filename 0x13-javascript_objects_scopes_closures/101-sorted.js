@@ -9,4 +9,3 @@ for (const entry in dict) {
 }
 
 console.log(output);
-
